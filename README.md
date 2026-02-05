@@ -4,7 +4,7 @@ title: Home
 index: true
 ---
 
-Our SDLC is considered a strategic knowledge asset, not a static document. Our approach to our SDLC reflects the Australian Government’s expectations around openness, reuse, and digital maturity, particularly as outlined in the Productivity Commission’s "Harnessing Data and Digital Technology" interim report.
+Our SDLC is considered a strategic knowledge asset, not a static document. Our approach to our SDLC reflects the Australian Government’s expectations around openness, reuse, and digital maturity, particularly as outlined in the Productivity Commission’s "Harnessing Data and Digital Technology" interim report (15 September 2025).
 
 Specifically, we support these principles: 
 
